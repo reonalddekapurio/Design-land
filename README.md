@@ -2,9 +2,8 @@
 
 自分がデザインしたもの不定期に貼っていこうと思います！
 
-<br >
 
-## Gran app vantan編
+## Gran app vantan
 
 
 
