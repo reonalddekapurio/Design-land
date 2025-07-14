@@ -13,9 +13,7 @@
 
 <img src="カジノロゴ.png" width="500px">
 
-### 文化祭制作物用 トランプ素材
 
-<img src="TRUMP.png" width="800px">
 
 
 
