@@ -24,7 +24,7 @@
 ### 作品概要
 使用　Figma html/css 
 
-詳しくははこちらから　https://github.com/reonalddekapurio/suntory-lp
+詳しくはこちらから　https://github.com/reonalddekapurio/suntory-lp
 
 <br>
 
