@@ -17,6 +17,17 @@
 
 <br>
 
+## 2025 lpサイト
+
+<img src="image.png" width="500px">
+
+### 作品概要
+使用　html/css Figma 
+
+詳しくははこちらから　https://github.com/reonalddekapurio/suntory-lp
+
+<br>
+
 ## 2025 文化祭制作物　CASINO ロゴ
 
 <img src="カジノロゴ.png" width="500px">
