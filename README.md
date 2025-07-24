@@ -22,7 +22,7 @@
 <img src="image.png" width="500px">
 
 ### 作品概要
-使用　html/css Figma 
+使用　Figma html/css 
 
 詳しくははこちらから　https://github.com/reonalddekapurio/suntory-lp
 
