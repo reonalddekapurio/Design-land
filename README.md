@@ -71,8 +71,16 @@
 ### 作品概要
 使用ソフト　Illustrator Photoshop
 
-**9月の審査会の課題として出された制作物です。透明感や統一感があるかを意識しカラーなども<br>
+**9月の審査会の課題として出された制作物です。透明感や統一感があるかを意識しカラーなども<br>　　　　　
 ターゲットである女性などが入りやすいような雰囲気をこの作品で作りました。**
+
+<br>
+
+## 2025 夏TechJam 制作物 
+
+<img src="https://github.com/reonalddekapurio/TechJamIteam/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-08-10%2017.39.13.png" width="200px">
+
+詳しくはこちらから　https://github.com/reonalddekapurio/TechJamIteam
 
 <br>
 
